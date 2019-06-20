@@ -10,9 +10,6 @@ import binascii
 from base64 import b64encode
 from random import random
 
-
-#   18.202.148.130 "srv.exatest.dynu.net"
-#   3335, 8082, 8445, 49154, 3480, 65533
 HOST = "some.server.net"
 PORT = 8080
 authdata = "authdata"
